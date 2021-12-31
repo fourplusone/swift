@@ -1,0 +1,2 @@
+tasks:
+  - init: utils/update-checkout --clone && utils/build-script --release-debuginfo --test --skip-early-swift-driver
